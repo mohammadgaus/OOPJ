@@ -1,4 +1,5 @@
-class Array{
+import java.util.*;
+class Arra{
     public static void main(String arg[]){
         Scanner sc=new Scanner(System.in);
         int choice;
